@@ -8,7 +8,7 @@ export default function HireMe() {
       <div><strong> Gmail</strong>: thapliyalshivraj@gmail.com</div>
       <div><strong> Instagram</strong> : shivraj_thapliyal</div>
       <div><strong> WhatsApp</strong> : +91-954-874-3479</div>
-    <img src=""../../public/images/cover.png""/>
+
     </div>
   )
 }
